@@ -44,3 +44,21 @@ Implement and document key security measures to safeguard application data and e
 Gain insights into setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase.
 
 This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution.
+
+## 👥 Project Roles & Responsibilities
+
+### 1. **Backend Developer**
+Designs and develops the server-side logic, APIs, user and data management, and overall software architecture. In this project, they work with Django REST Framework.
+
+### 2. **Database Administrator (DBA)**
+Configures, optimizes, and secures the database systems. Responsible for indexing, caching strategies, backups, and ensuring data integrity and performance.
+
+### 3. **Frontend Developer**
+Builds the user interface (UI) and connects the frontend with the backend APIs to ensure seamless user interactions.
+
+### 4. **Project Manager**
+Coordinates the team, defines project milestones, monitors progress, and ensures the project is delivered on time and meets quality standards.
+
+### 5. **DevOps Engineer**
+Manages the deployment, CI/CD pipelines, and ensures the backend is scalable, secure, and always available.
+
