@@ -45,7 +45,7 @@ Gain insights into setting up automated development pipelines, boosting efficien
 
 This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution.
 
-## 👥 Project Roles & Responsibilities
+## Team roles
 
 ### 1. **Backend Developer**
 Designs and develops the server-side logic, APIs, user and data management, and overall software architecture. In this project, they work with Django REST Framework.
